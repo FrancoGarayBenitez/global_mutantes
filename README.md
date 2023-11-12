@@ -1,6 +1,9 @@
 # PROGRAMACIÓN I
+## Franco Garay - DNI: 39603558
 
-## Proyecto global - Mutantes - Franco Garay
+## Tecnicatura universitaria en programación - UTN
+
+## Proyecto global - Mutantes 
 
 Magneto quiere reclutar la mayor cantidad de mutantes para poder luchar contra los X-Mens.
 
