@@ -1,5 +1,8 @@
 # PROGRAMACIÓN I
-## Franco Garay - DNI: 39603558
+* Franco Garay
+* DNI: 39603558
+* Legajo: 51541
+* francogaray2314@gmail.com
 
 ## Tecnicatura universitaria en programación - UTN
 
